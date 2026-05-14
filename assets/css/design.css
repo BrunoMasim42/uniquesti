@@ -179,7 +179,8 @@
     }
 
     leria-fotos-responsiva
-· html
+
+     html{
       gap: 22px;
     }
 
